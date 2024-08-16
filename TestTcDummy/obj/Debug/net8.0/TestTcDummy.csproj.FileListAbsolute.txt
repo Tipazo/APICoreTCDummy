@@ -1,0 +1,5 @@
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\TestTcDummy\obj\Debug\net8.0\TestTcDummy.csproj.AssemblyReference.cache
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\TestTcDummy\obj\Debug\net8.0\TestTcDummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\TestTcDummy\obj\Debug\net8.0\TestTcDummy.AssemblyInfoInputs.cache
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\TestTcDummy\obj\Debug\net8.0\TestTcDummy.AssemblyInfo.cs
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\TestTcDummy\obj\Debug\net8.0\TestTcDummy.csproj.CoreCompileInputs.cache

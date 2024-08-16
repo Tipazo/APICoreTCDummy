@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APICoreTCDummy", "APICoreTCDummy\APICoreTCDummy.csproj", "{1EC32530-539F-4B1C-84B0-15C467C355DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTcDummy.Test", "TestTcDummy\TestTcDummy.Test.csproj", "{2429E8EB-AF4A-40AE-93AE-18BDD2094080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC32530-539F-4B1C-84B0-15C467C355DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC32530-539F-4B1C-84B0-15C467C355DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC32530-539F-4B1C-84B0-15C467C355DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC32530-539F-4B1C-84B0-15C467C355DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2429E8EB-AF4A-40AE-93AE-18BDD2094080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2429E8EB-AF4A-40AE-93AE-18BDD2094080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2429E8EB-AF4A-40AE-93AE-18BDD2094080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2429E8EB-AF4A-40AE-93AE-18BDD2094080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64012CDC-CD35-414D-9CE4-CD3781B5DDD8}
+	EndGlobalSection
+EndGlobal
