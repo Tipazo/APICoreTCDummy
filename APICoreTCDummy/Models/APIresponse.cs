@@ -2,18 +2,12 @@
 {
     public class APIresponse
     {
-        public Data result { get; set; } = new Data();
+        public Object result { get; set; }
         public Metrics metrics { get; set; } = new Metrics();
         public Error error { get; set; } = new Error();
     }
 
-    public class Data
-    {
-        public Object data { get; set; } = new Object();
-        public string tipoTarjeta { get; set; } = null;
-
-    }
-
+   
     public class Metrics
     {
         public DateTime startDate { get; set; } = DateTime.Now;

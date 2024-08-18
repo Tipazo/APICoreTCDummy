@@ -18,7 +18,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "VISA_PATTERN": "@\"^4[0-9]{12}(?:[0-9]{3})?$",
-        "MASTERCARD_PATTERN": "@\"^5[1-5][0-9]{14}$"
+        "MASTERCARD_PATTERN": "@\"^5[1-5][0-9]{14}$",
+        "API_MASTERCARD": "http://10.50.51.110:9090/api/MasterCard/"
       }
     },
     "https": {
@@ -30,7 +31,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "VISA_PATTERN": "@\"^4[0-9]{12}(?:[0-9]{3})?$",
-        "MASTERCARD_PATTERN": "@\"^5[1-5][0-9]{14}$"
+        "MASTERCARD_PATTERN": "@\"^5[1-5][0-9]{14}$",
+        "API_MASTERCARD": "http://10.50.51.110:9090/api/MasterCard/"
       }
     },
     "IIS Express": {
@@ -40,7 +42,8 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
         "VISA_PATTERN": "@\"^4[0-9]{12}(?:[0-9]{3})?$",
-        "MASTERCARD_PATTERN": "@\"^5[1-5][0-9]{14}$"
+        "MASTERCARD_PATTERN": "@\"^5[1-5][0-9]{14}$",
+        "API_MASTERCARD": "http://10.50.51.110:9090/api/MasterCard/"
       }
     }
   }
