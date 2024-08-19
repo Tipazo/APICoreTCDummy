@@ -13,4 +13,17 @@
         public string bill { get; set; }
         public string pay_date { get; set; }
     }
+
+    // Validaciones API
+    public class MBadRequestCardNumber
+    {
+        public int status { get; set; }
+        public string title { get; set; } = string.Empty;
+        public Merrors errors { get; set; } = new Merrors();
+    }
+
+    public class Merrors
+    {
+        public string[] card_number { get; set; }
+    }
 }

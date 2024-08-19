@@ -44,7 +44,7 @@ namespace APICoreTCDummy.Business.Tc
         public MSaldoTarjeta consultaSaldo(string numeroTarjeta, string tipoTarjeta)
         {
             Type type = Type.GetType($"APICoreTCDummy.Business.Tc.{tipoTarjeta}");
-            
+
             Object obj = Activator.CreateInstance(type);
             
             MethodInfo methodInfo = type.GetMethod("ConsultaSaldo");
@@ -63,18 +63,6 @@ namespace APICoreTCDummy.Business.Tc
                 throw new Exception("TarjetaNoValida");
             }
 
-            //Type type = Type.GetType($"APICoreTCDummy.Models.Tc.{tipoTarjeta}");
-
-            // Create an instance of that type
-            //Object obj = Activator.CreateInstance(type);
-
-            // Retrieve the method you are looking for
-            //MethodInfo methodInfo = type.GetMethod("saldo");
-
-            // Invoke thei method on the instance we created above
-            //Object i = methodInfo.Invoke(obj, new object[] { numeroTarjeta });
-
-            //return Convert.ToInt64(i);
 
             return new MResponseTc();
         }

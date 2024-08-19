@@ -9,7 +9,8 @@ namespace APICoreTCDummy.Business.Tc
     {
         public MSaldoTarjeta ConsultaSaldo(string numeroTarjeta)
         {
-            var apiUrl = Environment.GetEnvironmentVariable("API_MASTERCARD");
+            //var apiUrl = Environment.GetEnvironmentVariable("API_MASTERCARD");
+            var apiUrl = "http://10.50.51.110:9090/api/MasterCard/";
             MSaldoTarjeta tarjeta = new MSaldoTarjeta();
 
             try
@@ -25,6 +26,7 @@ namespace APICoreTCDummy.Business.Tc
                 {
                     if (response.Content == "" || response.Content == null)
                     {
+                        // se implementa LOG
                         throw new Exception("ErrorConsultaSaldoMasterCard");
                     }
                     else
@@ -39,11 +41,13 @@ namespace APICoreTCDummy.Business.Tc
                 }
                 else
                 {
+                    // se implementa LOG
                     throw new Exception("ErrorConsultaSaldoMasterCard");
                 }
             }
             catch (Exception ex)
             {
+                // se implementa LOG 
                 throw new Exception("ErrorConsultaSaldoMasterCard");
             }
 

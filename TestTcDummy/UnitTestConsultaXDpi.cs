@@ -9,6 +9,7 @@ namespace TestTcDummy.Test
         [TestMethod]
         public void TestMethodThrowsExceptionValidaQueNoEsDPI()
         {
+            //arrange
             Tc tarjeta = new Tc();
             string dpi = "1708";
             string expected = "TarjetaNoValida";
@@ -23,6 +24,7 @@ namespace TestTcDummy.Test
         [TestMethod]
         public void TestMethodThrowsExceptionValidaValorNulo()
         {
+            //arrange
             Tc tarjeta = new Tc();
             string dpi = string.Empty;
             string expected = "TarjetaNoValida";

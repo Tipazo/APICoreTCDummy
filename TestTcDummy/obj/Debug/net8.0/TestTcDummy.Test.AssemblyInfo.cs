@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestTcDummy.Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d1db26f7d04d51280baefb92b179d0fe5bdff21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23282c75da687de8ff3f37f04660d200dfa86241")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestTcDummy.Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestTcDummy.Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

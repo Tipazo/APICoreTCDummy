@@ -39,11 +39,11 @@ namespace APICoreTCDummy.Controllers
         {
             try
             {
-                //return $"total: {total}";
+                
             }
             catch (Exception ex)
             {
-                //return ex.Message;
+                
             }
 
             return Ok("Holamundo");
@@ -55,11 +55,11 @@ namespace APICoreTCDummy.Controllers
         {
             try
             {
-                //return $"total: {total}";
+                
             }
             catch (Exception ex)
             {
-                //return ex.Message;
+                
             }
 
             return Ok("Holamundo");
