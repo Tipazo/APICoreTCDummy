@@ -53,18 +53,33 @@ namespace TestTcDummy.Test
         }
 
         [TestMethod]
-        public void TestMethodValidaTarejtaTest()
+        public void TestMethodValidaTarjetaNumero5Repetido()
+        {
+            //arrange
+            Tc tarjeta = new Tc();
+            string numeroTarjeta = "5555555555555555";
+            string expected = "TarjetaNoValida";
+
+            //act
+            Exception exception = Assert.ThrowsException<Exception>(() => tarjeta.verifica(numeroTarjeta));
+
+            //assert
+            Assert.AreEqual(expected, exception.Message);
+        }
+
+        [TestMethod]
+        public void TestMethodValidaTarjetaNumero4Repetido()
         {
             //arrange
             Tc tarjeta = new Tc();
             string numeroTarjeta = "4444444444444444";
-            string expected = "Visa";
+            string expected = "TarjetaNoValida";
 
             //act
-            MTipoTarjeta result = tarjeta.verifica(numeroTarjeta);
+            Exception exception = Assert.ThrowsException<Exception>(() => tarjeta.verifica(numeroTarjeta));
 
             //assert
-            Assert.AreEqual(expected, result.tipo);
+            Assert.AreEqual(expected, exception.Message);
         }
 
     }

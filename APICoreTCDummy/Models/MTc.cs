@@ -8,12 +8,6 @@ namespace APICoreTCDummy.Models
         public string tipo { get; set; } = "proveedor";
     }
 
-    public class MResponseTc
-    {
-        public Object data { get; set; } = new Object();
-        public string tipo { get; set; } = "proveedor";
-    }
-
     public class Mtarjeta
     {
         public string numeroTarjeta { get; set; } = String.Empty;
@@ -21,11 +15,10 @@ namespace APICoreTCDummy.Models
         public string apellidos { get; set; } = String.Empty;
         public string cvv { get; set; } = String.Empty;
         public string dpi { get; set; } = String.Empty;
-        public string tipo { get; set; } = String.Empty;
-        public string estado { get; set; } = String.Empty;
+        public bool estado { get; set; } = false;
         public string fechaExpiracion { get; set; } = String.Empty;
         public string limiteCredito { get; set; } = String.Empty;
-
+        public string tipo { get; set; } = String.Empty;
     }
 
     public class MSaldoTarjeta

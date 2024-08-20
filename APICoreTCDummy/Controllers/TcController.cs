@@ -37,16 +37,24 @@ namespace APICoreTCDummy.Controllers
         [Route("detalleTarjeta")]
         public ActionResult detalleTarjeta([FromQuery] MNumeroTarjeta filters)
         {
+            APIresponse respose = new APIresponse();
             try
             {
-                
+                Tc tarjeta = new Tc();
+
+                MTipoTarjeta verifica = tarjeta.verifica(filters.numeroTarjeta);
+
+                Mtarjeta detalle = tarjeta.detalleTarjeta(filters.numeroTarjeta, verifica.tipo);
+
+                respose.result = detalle;
             }
             catch (Exception ex)
             {
-                
+                respose.error.code = 2;
+                respose.error.message = ex.Message;
             }
 
-            return Ok("Holamundo");
+            return Ok(respose);
         }
 
     }
