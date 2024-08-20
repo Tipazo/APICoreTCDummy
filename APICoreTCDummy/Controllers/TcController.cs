@@ -34,24 +34,8 @@ namespace APICoreTCDummy.Controllers
         }
 
         [HttpPost]
-        [Route("detalleTarjeta/numeroTarjeta")]
-        public ActionResult detallexNumeroTarjeta([FromQuery] MNumeroTarjeta filters)
-        {
-            try
-            {
-                
-            }
-            catch (Exception ex)
-            {
-                
-            }
-
-            return Ok("Holamundo");
-        }
-
-        [HttpPost]
-        [Route("detalleTarjeta/dpi")]
-        public ActionResult detallexDpi([FromQuery] MNumeroDpi filters)
+        [Route("detalleTarjeta")]
+        public ActionResult detalleTarjeta([FromQuery] MNumeroTarjeta filters)
         {
             try
             {

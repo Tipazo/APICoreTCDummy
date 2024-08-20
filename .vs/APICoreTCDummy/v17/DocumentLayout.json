@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\mastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\mastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\controllers\\tccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\controllers\\tccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\mastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\mastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestconsultasaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestconsultasaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestconsultaxdpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestconsultaxdpi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\tcinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\tcinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\models\\mtcvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\models\\mtcvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\models\\mtc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,28 +35,12 @@
       "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestvalidatarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\models\\mmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\models\\mmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\models\\mtcvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\models\\mtcvalidations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestconsultasaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestconsultasaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,149 +50,111 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Tc.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\Tc.cs",
-              "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\Tc.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\Tc.cs",
-              "RelativeToolTip": "APICoreTCDummy\\Business\\Tc\\Tc.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAIwCoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T05:03:37.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitTestConsultaXDpi.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaXDpi.cs",
-              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestConsultaXDpi.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaXDpi.cs",
-              "RelativeToolTip": "TestTcDummy\\UnitTestConsultaXDpi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T04:39:28.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitTestValidaTarjeta.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestValidaTarjeta.cs",
-              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestValidaTarjeta.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestValidaTarjeta.cs",
-              "RelativeToolTip": "TestTcDummy\\UnitTestValidaTarjeta.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T04:32:31.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MTc.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTc.cs",
-              "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MTc.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTc.cs",
-              "RelativeToolTip": "APICoreTCDummy\\Models\\MTc.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAEwCMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T04:11:05.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\appsettings.json",
-              "RelativeDocumentMoniker": "APICoreTCDummy\\appsettings.json",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\appsettings.json",
-              "RelativeToolTip": "APICoreTCDummy\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-19T02:44:27.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTestMasterCard.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestMasterCard.cs",
-              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestMasterCard.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestMasterCard.cs",
-              "RelativeToolTip": "TestTcDummy\\UnitTestMasterCard.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGsAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T02:20:10.234Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UnitTestConsultaSaldo.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaSaldo.cs",
-              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestConsultaSaldo.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaSaldo.cs",
-              "RelativeToolTip": "TestTcDummy\\UnitTestConsultaSaldo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:10:12.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MMasterCard.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MMasterCard.cs",
-              "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MMasterCard.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MMasterCard.cs",
-              "RelativeToolTip": "APICoreTCDummy\\Models\\MMasterCard.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAzwBEAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T03:47:12.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "APICoreTCDummy\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Properties\\launchSettings.json",
-              "RelativeToolTip": "APICoreTCDummy\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-18T01:51:14.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "APIresponse.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\APIresponse.cs",
-              "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\APIresponse.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\APIresponse.cs",
-              "RelativeToolTip": "APICoreTCDummy\\Models\\APIresponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T06:54:41.022Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "MTcValidations.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTcValidations.cs",
               "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MTcValidations.cs",
               "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTcValidations.cs",
               "RelativeToolTip": "APICoreTCDummy\\Models\\MTcValidations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwAoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-16T06:50:16.934Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MMasterCard.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MMasterCard.cs",
+              "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MMasterCard.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MMasterCard.cs",
+              "RelativeToolTip": "APICoreTCDummy\\Models\\MMasterCard.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T00:00:54.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MTc.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTc.cs",
+              "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MTc.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTc.cs",
+              "RelativeToolTip": "APICoreTCDummy\\Models\\MTc.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:59:58.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TcInterface.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\TcInterface.cs",
+              "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\TcInterface.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\TcInterface.cs",
+              "RelativeToolTip": "APICoreTCDummy\\Business\\Tc\\TcInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T23:27:55.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitTestMasterCard.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestMasterCard.cs",
+              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestMasterCard.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestMasterCard.cs",
+              "RelativeToolTip": "TestTcDummy\\UnitTestMasterCard.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:41:33.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTestValidaTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestValidaTarjeta.cs",
+              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestValidaTarjeta.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestValidaTarjeta.cs",
+              "RelativeToolTip": "TestTcDummy\\UnitTestValidaTarjeta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:41:13.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTestConsultaSaldo.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaSaldo.cs",
+              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestConsultaSaldo.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaSaldo.cs",
+              "RelativeToolTip": "TestTcDummy\\UnitTestConsultaSaldo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:40:55.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MasterCard.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
+              "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
+              "RelativeToolTip": "APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:39:04.846Z",
               "EditorCaption": ""
             },
             {
@@ -215,22 +165,22 @@
               "RelativeDocumentMoniker": "APICoreTCDummy\\Controllers\\TcController.cs",
               "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Controllers\\TcController.cs",
               "RelativeToolTip": "APICoreTCDummy\\Controllers\\TcController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAQAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T06:17:53.391Z",
+              "WhenOpened": "2024-08-19T05:39:04.872Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MasterCard.cs",
-              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
-              "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
-              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
-              "RelativeToolTip": "APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwB0AAABMAAAA",
+              "DocumentIndex": 3,
+              "Title": "Tc.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\Tc.cs",
+              "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\Tc.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\Tc.cs",
+              "RelativeToolTip": "APICoreTCDummy\\Business\\Tc\\Tc.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwCsAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T06:16:26.663Z",
+              "WhenOpened": "2024-08-19T05:39:04.891Z",
               "EditorCaption": ""
             }
           ]

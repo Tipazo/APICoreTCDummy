@@ -54,19 +54,14 @@ namespace APICoreTCDummy.Business.Tc
             return tarjeta;
         }
 
-        public MResponseTc consultaXPdi(string dpi)
+        public Mtarjeta DetalleTarjeta(string numeroTarjeta)
         {
-
-            return new MResponseTc();
+            return new Mtarjeta();
         }
 
-        public decimal realizarpago(string numeroTarjeta, decimal monto)
+        public MPagoRealizado RealizarPago(string numeroTarjeta)
         {
-            return 00;
-        }
-        public decimal consultarPuntos(string numeroTarjeta)
-        {
-            return 00;
+            return new MPagoRealizado();
         }
     }
 }

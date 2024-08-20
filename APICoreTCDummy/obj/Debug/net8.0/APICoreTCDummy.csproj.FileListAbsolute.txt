@@ -1,11 +1,3 @@
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.csproj.AssemblyReference.cache
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.AssemblyInfoInputs.cache
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.AssemblyInfo.cs
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.csproj.CoreCompileInputs.cache
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.sourcelink.json
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\appsettings.json
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\APICoreTCDummy.exe
@@ -15,9 +7,18 @@ C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\De
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\APICoreTCDummy.pdb
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\RestSharp.dll
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.csproj.AssemblyReference.cache
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.AssemblyInfoInputs.cache
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.AssemblyInfo.cs
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.csproj.CoreCompileInputs.cache
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.sourcelink.json
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\staticwebassets\msbuild.APICoreTCDummy.Microsoft.AspNetCore.StaticWebAssets.props
@@ -32,4 +33,3 @@ C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\De
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.pdb
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\APICoreTCDummy.genruntimeconfig.cache
 C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\obj\Debug\net8.0\ref\APICoreTCDummy.dll
-C:\Users\eduardo_tipaz\source\repos\Pruebas\APICoreTCDummy\APICoreTCDummy\bin\Debug\net8.0\RestSharp.dll

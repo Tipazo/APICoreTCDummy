@@ -8,10 +8,21 @@ namespace APICoreTCDummy.Models
         public string numeroTarjeta { get; set; } = string.Empty;
     }
 
-    public class MNumeroDpi
+    public class MPagoRealizado
     {
         //[Required]
-        public string dpi { get; set; } = string.Empty;
+        public string numeroTarjeta { get; set; } = string.Empty;
+        public string monto { get; set; } = string.Empty;
+        public string moneda { get; set; } = string.Empty;
+        public string mensage { get; set; } = "Pago";
+    }
+
+    public class MRealizarPago
+    {
+        //[Required]
+        public string numeroTarjeta { get; set; } = string.Empty;
+        public string monto { get; set; } = string.Empty;
+        public string moneda { get; set; } = string.Empty;        
     }
 
 }

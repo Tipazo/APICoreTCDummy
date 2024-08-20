@@ -19,7 +19,7 @@ namespace APICoreTCDummy.Business.Tc
             mTipoTarjeta.numeroTarjeta = numeroTarjeta;
 
             string visaPattern = @"^4[0-9]{12}(?:[0-9]{3})?$";
-            string masterCardPattern = @"^5[1-5][0-9]{14}$";
+            string masterCardPattern = @"^5[0-5][0-9]{14}$";
 
             if (Regex.IsMatch(numeroTarjeta, visaPattern))
             {
@@ -45,6 +45,16 @@ namespace APICoreTCDummy.Business.Tc
         {
             Type type = Type.GetType($"APICoreTCDummy.Business.Tc.{tipoTarjeta}");
 
+            if (string.IsNullOrEmpty(tipoTarjeta) || type == null)
+            {
+                throw new Exception(@$"Proveedor {tipoTarjeta} no configurado");
+            }
+
+            if (string.IsNullOrEmpty(numeroTarjeta))
+            {
+                throw new Exception(@$"numeroTarjeta requerido");
+            }
+
             Object obj = Activator.CreateInstance(type);
             
             MethodInfo methodInfo = type.GetMethod("ConsultaSaldo");
@@ -54,18 +64,11 @@ namespace APICoreTCDummy.Business.Tc
             return (MSaldoTarjeta)result;
         }
 
-        public MResponseTc DetalleXDpi(string dpi)
+        public Mtarjeta detalleTarjeta(string numeroTarjeta, string tipoTarjeta)
         {
-            string dpiPattern = "^[0-9]{13}$";
 
-            if (String.IsNullOrEmpty(dpi) || !Regex.IsMatch(dpi, dpiPattern))
-            {
-                throw new Exception("TarjetaNoValida");
-            }
-
-
-            return new MResponseTc();
+            return new Mtarjeta();
         }
-        
+
     }
 }

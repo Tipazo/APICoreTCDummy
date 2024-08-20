@@ -1,4 +1,5 @@
-﻿using System;
+﻿using APICoreTCDummy.Business.Tc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +10,37 @@ namespace TestTcDummy.Test
     [TestClass]
     public class UnitTestConsultaSaldo
     {
-        //[TestMethod]
+        [TestMethod]
+        public void TestMethodThrowsExceptionValidaExistenciaProveedor()
+        {
+            //arrange
+            Tc tarjeta = new Tc();
+            string tipo = "Visa";
+            string numeroTarjeta = "4915874449533417";
+            string expected = $"Proveedor {tipo} no configurado";
+
+            //act
+            Exception exception = Assert.ThrowsException<Exception>(() => tarjeta.consultaSaldo(numeroTarjeta, tipo));
+
+            //assert
+            Assert.AreEqual(expected, exception.Message);
+        }
+
+        [TestMethod]
+        public void TestMethodThrowsExceptionValidaTarjetaEmpty()
+        {
+            //arrange
+            Tc tarjeta = new Tc();
+            string tipo = "MasterCard";
+            string numeroTarjeta = string.Empty;
+            string expected = "numeroTarjeta requerido";
+
+            //act
+            Exception exception = Assert.ThrowsException<Exception>(() => tarjeta.consultaSaldo(numeroTarjeta, tipo));
+
+            //assert
+            Assert.AreEqual(expected, exception.Message);
+        }
 
     }
 }

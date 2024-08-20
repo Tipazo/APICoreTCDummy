@@ -34,6 +34,6 @@ namespace APICoreTCDummy.Models
         public string monto { get; set; } = String.Empty;
         public string fecha_pago { get; set; } = String.Empty;
         public string tipo { get; set; } = String.Empty;
-
     }
+
 }
