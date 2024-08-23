@@ -22,6 +22,21 @@ namespace TestTcDummy.Test
             Assert.AreEqual(expected, exception.Message);
         }
 
+        public void TestMethodThrowsExceptionValidaVaQueEsNit()
+        {
+            //arrange
+            Tc tarjeta = new Tc();
+            string numeroTarjeta = "544358009-k";
+            string expected = "TarjetaNoValida";
+
+            //act
+            Exception exception = Assert.ThrowsException<Exception>(() => tarjeta.verifica(numeroTarjeta));
+
+            //assert
+            Assert.AreEqual(expected, exception.Message);
+        }
+
+
         [TestMethod]
         public void TestMethodThrowsExceptionValidaValorEmpty()
         {
