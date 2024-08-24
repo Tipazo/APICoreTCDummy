@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestvalidatarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestvalidatarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestmastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestconsultasaldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestdetalletarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestdetalletarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\testtcdummy\\unittestvalidatarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2429E8EB-AF4A-40AE-93AE-18BDD2094080}|TestTcDummy\\TestTcDummy.Test.csproj|solutionrelative:testtcdummy\\unittestvalidatarjeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\mastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\mastercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|solutionrelative:apicoretcdummy\\business\\tc\\tc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EC32530-539F-4B1C-84B0-15C467C355DB}|APICoreTCDummy\\APICoreTCDummy.csproj|c:\\users\\eduardo_tipaz\\source\\repos\\pruebas\\apicoretcdummy\\apicoretcdummy\\controllers\\tccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "MTcValidations.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTcValidations.cs",
               "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MTcValidations.cs",
@@ -67,7 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "UnitTestDetalleTarjeta.cs",
+              "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestDetalleTarjeta.cs",
+              "RelativeDocumentMoniker": "TestTcDummy\\UnitTestDetalleTarjeta.cs",
+              "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestDetalleTarjeta.cs",
+              "RelativeToolTip": "TestTcDummy\\UnitTestDetalleTarjeta.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T22:46:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MMasterCard.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MMasterCard.cs",
               "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MMasterCard.cs",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MTc.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Models\\MTc.cs",
               "RelativeDocumentMoniker": "APICoreTCDummy\\Models\\MTc.cs",
@@ -91,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "TcInterface.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\TcInterface.cs",
               "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\TcInterface.cs",
@@ -103,39 +120,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UnitTestMasterCard.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestMasterCard.cs",
               "RelativeDocumentMoniker": "TestTcDummy\\UnitTestMasterCard.cs",
               "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestMasterCard.cs",
               "RelativeToolTip": "TestTcDummy\\UnitTestMasterCard.cs",
-              "ViewState": "AQIAAHkAAAAAAAAAAAAowCYAAAAAAAAA",
+              "ViewState": "AQIAAJMAAAAAAAAAAAApwCUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T05:41:33.448Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "UnitTestValidaTarjeta.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestValidaTarjeta.cs",
               "RelativeDocumentMoniker": "TestTcDummy\\UnitTestValidaTarjeta.cs",
               "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestValidaTarjeta.cs",
               "RelativeToolTip": "TestTcDummy\\UnitTestValidaTarjeta.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAUwBgAAAA/AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAYAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T05:41:13.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UnitTestConsultaSaldo.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaSaldo.cs",
               "RelativeDocumentMoniker": "TestTcDummy\\UnitTestConsultaSaldo.cs",
               "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\TestTcDummy\\UnitTestConsultaSaldo.cs",
               "RelativeToolTip": "TestTcDummy\\UnitTestConsultaSaldo.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCMAAAA2AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwC4AAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T05:40:55.778Z",
               "EditorCaption": ""
@@ -148,14 +165,14 @@
               "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
               "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
               "RelativeToolTip": "APICoreTCDummy\\Business\\Tc\\MasterCard.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAlwBYAAAA6AAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAApwA0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T05:39:04.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TcController.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Controllers\\TcController.cs",
               "RelativeDocumentMoniker": "APICoreTCDummy\\Controllers\\TcController.cs",
@@ -167,13 +184,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Tc.cs",
               "DocumentMoniker": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\Tc.cs",
               "RelativeDocumentMoniker": "APICoreTCDummy\\Business\\Tc\\Tc.cs",
               "ToolTip": "C:\\Users\\eduardo_tipaz\\source\\repos\\Pruebas\\APICoreTCDummy\\APICoreTCDummy\\Business\\Tc\\Tc.cs",
               "RelativeToolTip": "APICoreTCDummy\\Business\\Tc\\Tc.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAASwA0AAAA6AAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAawBsAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-19T05:39:04.891Z",
               "EditorCaption": ""

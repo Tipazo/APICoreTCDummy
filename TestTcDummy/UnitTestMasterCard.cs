@@ -102,6 +102,47 @@ namespace TestTcDummy.Test
         }
 
 
+        [TestMethod]
+        public void TestMethodValidaApiStatusCode404DetalleTarjeta()
+        {
+            //arrange            
+            var apiUrl = "http://10.50.51.110:9090/api/MasterCard/";
+            string numeroTarjeta = "5474388764954888";
+
+            var client = new RestClient(@$"{apiUrl}get_tc_data?card_number={numeroTarjeta}&api-version=1.0");
+            var request = new RestRequest();
+            request.RequestFormat = DataFormat.Json;
+            var response = client.ExecuteGet(request);
+
+            //act
+            MMasterCardSaldo expected = JsonConvert.DeserializeObject<MMasterCardSaldo>(response.Content);
+
+            //assert
+            Assert.AreEqual(expected.statusCode, 404);
+            Assert.AreEqual(expected.data, null);
+        }
+
+        [TestMethod]
+        public void TestMethodValidaApiStatus400BadRequestDetalleTarjeta()
+        {
+            //arrange            
+            var apiUrl = "http://10.50.51.110:9090/api/MasterCard/";
+            string numeroTarjeta = string.Empty;
+
+            var client = new RestClient(@$"{apiUrl}get_tc_data?card_number={numeroTarjeta}&api-version=1.0");
+            var request = new RestRequest();
+            request.RequestFormat = DataFormat.Json;
+            var response = client.ExecuteGet(request);
+
+            //act
+            MBadRequestCardNumber expected = JsonConvert.DeserializeObject<MBadRequestCardNumber>(response.Content);
+
+            //assert
+            Assert.AreEqual(expected.status, 400);
+            Assert.AreEqual(expected.title, "One or more validation errors occurred.");
+        }
+
+
         // Test CONSULTA SALDO
 
         [TestMethod]

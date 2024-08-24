@@ -42,5 +42,22 @@ namespace TestTcDummy.Test
             Assert.AreEqual(expected, exception.Message);
         }
 
+
+        [TestMethod]
+        public void TestMethodDetalleTarjetaExceptionValidaNumeroTarjetaMaster()
+        {
+            //arrange
+            Tc tc = new Tc();
+
+            string numeroTarjeta = "5474388764954888";
+            string expected = "Numero de tarjeta 5474388764954888 - MasterCard no tiene datos";
+
+            //act
+            Exception exception = Assert.ThrowsException<Exception>(() => tc.consultaSaldo(numeroTarjeta, "MasterCard"));
+
+            //assert
+            Assert.AreEqual(expected, exception.Message);
+        }
+
     }
 }

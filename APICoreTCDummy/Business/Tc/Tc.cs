@@ -58,11 +58,20 @@ namespace APICoreTCDummy.Business.Tc
                 throw new Exception(@$"numeroTarjeta requerido");
             }
 
-            Object obj = Activator.CreateInstance(type);
-            
-            MethodInfo methodInfo = type.GetMethod("ConsultaSaldo");
+            Object result = new Object();
 
-            Object result = methodInfo.Invoke(obj, new object[] { numeroTarjeta });
+            try
+            {
+                Object obj = Activator.CreateInstance(type);
+
+                MethodInfo methodInfo = type.GetMethod("ConsultaSaldo");
+
+                result = methodInfo.Invoke(obj, new object[] { numeroTarjeta });
+            }
+            catch(Exception ex)
+            {
+                throw new Exception(@$"Numero de tarjeta {numeroTarjeta} - {tipoTarjeta} no tiene datos");
+            }
 
             return (MSaldoTarjeta)result;
         }
@@ -82,11 +91,19 @@ namespace APICoreTCDummy.Business.Tc
                 throw new Exception(@$"numeroTarjeta requerido");
             }
 
-            Object obj = Activator.CreateInstance(type);
+            Object result = new Object();
 
-            MethodInfo methodInfo = type.GetMethod("DetalleTarjeta");
+            try
+            {
+                Object obj = Activator.CreateInstance(type);
 
-            Object result = methodInfo.Invoke(obj, new object[] { numeroTarjeta });
+                MethodInfo methodInfo = type.GetMethod("DetalleTarjeta");
+
+                result = methodInfo.Invoke(obj, new object[] { numeroTarjeta });
+            }
+            catch(Exception ex) {
+                throw new Exception(@$"Numero de tarjeta {numeroTarjeta} - {tipoTarjeta} no tiene datos");
+            }
 
             return (Mtarjeta)result;
         }
