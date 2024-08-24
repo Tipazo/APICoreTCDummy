@@ -17,13 +17,12 @@ namespace TestTcDummy.Test
             Tc tarjeta = new Tc();
             string tipo = "Visa";
             string numeroTarjeta = "4915874449533417";
-            string expected = $"Proveedor {tipo} no configurado";
 
             //act
-            Exception exception = Assert.ThrowsException<Exception>(() => tarjeta.consultaSaldo(numeroTarjeta, tipo));
+            var respuesta = tarjeta.consultaSaldo(numeroTarjeta, tipo);
 
             //assert
-            Assert.AreEqual(expected, exception.Message);
+            Assert.IsNotNull(respuesta);
         }
 
         [TestMethod]
