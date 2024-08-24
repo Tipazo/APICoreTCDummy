@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APICoreTCDummy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2238de9d02e9894d4f5bada0e2b04122338ce991")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b14824ba098c81adca7eb6e82dfbca73889b323")]
 [assembly: System.Reflection.AssemblyProductAttribute("APICoreTCDummy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APICoreTCDummy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
